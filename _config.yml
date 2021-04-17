@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sayantan Chakraborty
-baseurl:  #"site_kingsbandz"
+baseurl:  "site_kingsbandz"
 url: ""
 
 # Build settings
-theme: minimal-mistakes-jekyll
-#remote_theme: mmistakes/minimal-mistakes
+#theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
