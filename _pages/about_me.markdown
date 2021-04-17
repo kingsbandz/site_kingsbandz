@@ -17,3 +17,5 @@ Decomposition Approach*, advised by [Pradip Sircar](https://iitk.ac.in/new/pradi
 **Miscellaneous Achievments**
 * I secured a rank of 24 in the Indian Statistical Institute selection test for JRF in computer science in 2016.
 * I secured an All India Rank of 171 in the Graduate Aptitude Test in Engineering (GATE) 2014 examination.
+
+[**Fun Stuff**](/misc/)
