@@ -1,0 +1,11 @@
+main:
+  - title: "Publications"
+    url: /about/
+  - title: "Awards"
+    url: /awards/
+  - title: "Talks"
+    url: /talks/
+  - title: "Contact"
+    url: /contact/
+  - title: "Miscellaneous"
+    url: /misc/  

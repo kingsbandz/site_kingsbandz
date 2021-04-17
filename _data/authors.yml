@@ -1,0 +1,9 @@
+Sayantan:
+  avatar      : "images/me.jpg"
+  links:
+    - label: "Gmail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kingsbandz@gmail.com"
+    - label: "TIFR mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sayantan.chakraborty@tifr.res.in"
