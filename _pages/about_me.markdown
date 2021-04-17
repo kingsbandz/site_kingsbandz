@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page #single
 type: pages
 title: More About Me
 permalink: /about_me/

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page #single
 type: pages
 title: Awards
 permalink: /awards/

@@ -23,11 +23,11 @@ baseurl: "site_kingsbandz"
 url: ""
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-minimal_mistakes_skin: "dark" #"default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+#minimal_mistakes_skin: "dark" #"default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 include: ["_pages"]
 
