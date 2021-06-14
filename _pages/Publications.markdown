@@ -5,10 +5,10 @@ title: Publications
 permalink: /about/
 ---
 Research works I have been part of:
+
 *[One-shot inner bounds for sending private classical information over a quantum MAC ](https://arxiv.org/abs/2105.06100){:target="_blank"}
   * with  Aditya Nema and [Pranab Sen](https://scholar.google.com/citations?user=Ka5re30AAAAJ&hl=en){:target="_blank"}
   * Under submission at [QCRYPT 2021](https://2021.qcrypt.net/){:target="_blank"} and [ITW 2021](http://itw2021.org/){:target="_blank"}
-
 * [Novel one-shot inner bounds for unassisted fully quantum channels via rate splitting](https://arxiv.org/abs/2102.01766){:target="_blank"}
   * with  Aditya Nema and [Pranab Sen](https://scholar.google.com/citations?user=Ka5re30AAAAJ&hl=en){:target="_blank"}
   * To appear in Proceedings of [ISIT 2021](https://2021.ieee-isit.org/){:target="_blank"}
