@@ -8,7 +8,7 @@ author: Sayantan
 ---
 
 I am a researcher interested in theoretical computer science and information theory, currently at the Tata Institute of Fundamental Research in Mumbai, India. I am broadly interested in questions with a probabilistic flavour, particularly in classical and quantum information theory and also in sampling algorithms.
-My CV can be found [here](/images/cv_Sayantan.pdf){:target="_blank"}.
+My CV can be found [here](/images/cv_Sayantan.pdf){:target="_blank"} and my research statement can be found [here](/images/Research_statement_Sayantan.pdf){:target="_blank"}
 \\
 \\
 The main focus of my research so far has been towards:
