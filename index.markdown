@@ -20,5 +20,6 @@ I have been fortunate enough to be able to work on the problems related to quant
 <hr>
 **Updates**
 <br>
-* I have received the Google PhD Fellowship 2021 for Quantum Computing. See this [[Link]](https://research.google/outreach/phd-fellowship/recipients/){target="_blank"} for more details.
+* I have received the Google PhD Fellowship 2021 for Quantum Computing. See this [[Link]](https://research.google/outreach/phd-fellowship/recipients/){:target="_blank"} for more details.
+<br>
 * The paper "One-shot inner bounds for sending private classical information over a quantum MAC " has been accepted at ITW 2021, and also as a contributed talk at Beyond IID 9.
