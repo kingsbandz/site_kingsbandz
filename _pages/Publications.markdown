@@ -9,8 +9,9 @@ Research works I have been part of:
 
 * [One-shot inner bounds for sending private classical information over a quantum MAC ](https://arxiv.org/abs/2105.06100){:target="_blank"}
   * with  Aditya Nema and [Pranab Sen](https://scholar.google.com/citations?user=Ka5re30AAAAJ&hl=en){:target="_blank"}
-  * To appear in Proceedings of [ITW 2021](http://itw2021.org/){:target="_blank"}
-  * To be presented as a [contributed talk](http://cc.ee.ntu.edu.tw/~beyondiid9/Talks.html){:target="_blank"} at [Beyond IID 9](http://cc.ee.ntu.edu.tw/~beyondiid9/){:target="_blank"}.
+  * In Proceedings of [ITW 2021](http://itw2021.org/){:target="_blank"}
+  *  [contributed talk](http://cc.ee.ntu.edu.tw/~beyondiid9/Talks.html){:target="_blank"} at [Beyond IID 9](http://cc.ee.ntu.edu.tw/~beyondiid9/){:target="_blank"}.
+  *  [contributed talk](https://custom.cvent.com/9563374D7DF84F27BC7A463F7B7B5F5F/files/b7f46addeac74520affde9abb00c17ca.pdf){:target="_blank"} at [QIP 2022](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary){:target="_blank"}.
 * [Novel one-shot inner bounds for unassisted fully quantum channels via rate splitting](https://arxiv.org/abs/2102.01766){:target="_blank"}
   * with  Aditya Nema and [Pranab Sen](https://scholar.google.com/citations?user=Ka5re30AAAAJ&hl=en){:target="_blank"}
   * To appear in Proceedings of [ISIT 2021](https://2021.ieee-isit.org/){:target="_blank"}
