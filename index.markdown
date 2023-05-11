@@ -18,7 +18,7 @@ The main focus of my research so far has been towards:
 \\
 I have been fortunate enough to be able to work on the problems related to quantum information theory with my advisor [Pranab Sen](https://scholar.google.com/citations?user=Ka5re30AAAAJ&hl=en){:target="_blank"}. I have also collaborated  with [Siddharth Bhandari](https://sites.google.com/view/siddharth-bhandari/home){:target="_blank"} on questions related to sampling algorithms.
 
-I also use this page to host some papers. These can be found [here](/images/chain_rules_upload.pdf){:target="_blank"}.
+I also use this page to host some papers. These can be found [here](/images/Chain_rules_upload.pdf){:target="_blank"}.
 <hr>
 **Updates**
 <br>
