@@ -17,9 +17,11 @@ The main focus of my research so far has been towards:
 \\
 \\
 I have been fortunate enough to be able to work on the problems related to quantum information theory with my advisor [Pranab Sen](https://scholar.google.com/citations?user=Ka5re30AAAAJ&hl=en){:target="_blank"}. I have also collaborated  with [Siddharth Bhandari](https://sites.google.com/view/siddharth-bhandari/home){:target="_blank"} on questions related to sampling algorithms.
+
+I also use this page to host some papers. These can be found here
 <hr>
 **Updates**
-<br
+<br>
     
 * The paper "One-shot inner bounds for sending private classical information over a quantum MAC " has been accepted as a contributed talk at QIP 2022.
 * I have received the Google PhD Fellowship 2021 for Quantum Computing. See this [[Link]](https://research.google/outreach/phd-fellowship/recipients/){:target="_blank"} for more details.
