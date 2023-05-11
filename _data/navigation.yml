@@ -6,7 +6,7 @@ main:
   - title: "Talks"
     url: /talks/
     title: "Hosted Papers"
-    url:/hosted_papers/
+    url: /hosted_papers/
   - title: "Contact"
     url: /contact/
   - title: "More About Me"
